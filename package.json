@@ -1,0 +1,28 @@
+{
+  "name": "modejs",
+  "version": "1.0.0",
+  "description": "query mode analytics ",
+  "main": "index.js",
+  "bin": {
+    "modejs": "cli.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "keywords": [
+    "mode",
+    "sql",
+    "analytics"
+  ],
+  "author": "Mick",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
