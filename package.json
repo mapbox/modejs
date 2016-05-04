@@ -4,7 +4,7 @@
   "description": "query mode analytics ",
   "main": "index.js",
   "bin": {
-    "modejs": "cli.js"
+    "modejs": "bin/cli.js"
   },
   "directories": {
     "test": "test"
