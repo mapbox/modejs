@@ -1,4 +1,7 @@
 
+In many cases it makes more sense to query the database directly, for data in Athena, you can use the node module https://github.com/mapbox/athena  to help with polling for results, or the Athena REST API directly.
+
+
 
 modejs is a library and cli for interacting with the modeanalytics.com api. Its not really documented, and might break. But this make it easier fetch data from mode and run more analysis locally.
 
